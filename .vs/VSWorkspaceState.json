@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\csharp",
+    "\\csharp\\day2",
+    "\\csharp\\day3"
   ],
-  "SelectedNode": "\\csharp",
+  "SelectedNode": "\\csharp\\day2",
   "PreviewInSolutionExplorer": false
 }
